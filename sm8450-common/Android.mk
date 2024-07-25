@@ -4,6 +4,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter cupid diting marble,$(TARGET_DEVICE)),)
+ifneq ($(filter cupid diting marble mayfly,$(TARGET_DEVICE)),)
 
 endif
